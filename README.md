@@ -35,5 +35,5 @@ Projekt oparty na wersji Unity `6000.0.51f1`, z wykorzystaniem URP i dedykowaneg
 
 | Gif prezentujący działanie | Wiadomość od serwera (Debug.Log) |
 |----------------------------|----------------------------------|
-| ![Gameplay](docs/demo.gif) | ![Log](docs/server_message.png)  |
+| ![Gameplay](Dosc/demo.gif) | ![Log](Dosc/server_message.png)  |
 
